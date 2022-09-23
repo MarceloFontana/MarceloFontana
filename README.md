@@ -1,6 +1,6 @@
 ## Eaiii, me chamo Marcelo Luiz Fontana, estudante de programação e tecnologia!
 
-- 🔭 Atualmente estudo para ser um desenvolvedor (Front-End).
+- 🔭 Atualmente estudando para ser um desenvolvedor (Front-End).
 - 🌱 Estudando HTML5, CSS3 e JavaScript.
 - 👯 A procura de um estagio para desenvolvedor Front-End.
 - 😄 Pronouns: ele/dele.
