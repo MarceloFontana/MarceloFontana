@@ -9,14 +9,6 @@
 - 👯 A procura de um estagio para desenvolvedor Front-End.
 - 😄 Pronouns: ele/dele.
 
-<div align="center">
-  <a href="https://github.com/MarceloFontana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloFontana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloFontana&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MarceloFontana&theme=gotham&hide_border=true&area=true)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarceloFontana&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
