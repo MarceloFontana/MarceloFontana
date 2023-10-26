@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Marcelo+Luiz+Fontana;I'm+21+years+old;I'm+from+Porto+ALegre,+RS;I+study+computer+science+at+Unisinos;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
   
-  ## Eaiii, me chamo Marcelo Luiz Fontana, estudante de programação e tecnologia!
-- 🔭 Atualmente estudando para ser um desenvolvedor (Front-End).
-- 🌱 Estudando HTML5, CSS3 e JavaScript.
-- 👯 A procura de um estagio para desenvolvedor Front-End.
+  ## Olá, me chamo Marcelo Luiz Fontana, estudante de programação e tecnologia!
+- 🔭 Atualmente estudando para ser um Engenheiro de Software.
+- 🌱 Estudando HTML5, CSS3 e JavaScript, Python, Java e C++.
+- 👯 Atualemte estagiando como Dev no zaffari - Automação Comercial.
 - 😄 Pronouns: ele/dele.
 
 <p align="center">
