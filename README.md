@@ -4,9 +4,8 @@
   
   
   ## Olá, me chamo Marcelo Luiz Fontana, estudante de programação e tecnologia!
-- 🔭 Atualmente estudando para ser um Engenheiro de Software.
-- 🌱 Estudando HTML5, CSS3 e JavaScript, Python, Java e C++.
-- 👯 Atualemte estagiando como Dev no zaffari - Automação Comercial.
+- 🔭 Atualmente estudando para me tornar um Engenheiro de Software.
+- 🌱 Estudando HTML5, CSS3, JavaScript e Java.
 - 😄 Pronouns: ele/dele.
 
 <p align="center">
