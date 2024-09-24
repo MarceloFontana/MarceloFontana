@@ -4,9 +4,10 @@
   
   
   ## Olá, me chamo Marcelo Luiz Fontana, estudante de programação e tecnologia!
-- 🔭 Atualmente estudando para me tornar um Engenheiro de Software.
-- 🌱 Estudando por curiosidade no mundo tecnologico.
-- 😄 Pronouns: ele/dele.
+- Estudante de Ciências da Computação.
+- Atualmente estudando para me tornar um Engenheiro de Software.
+- Apaixonado por tecnologias e suas transformações.
+- Pronouns: ele/dele.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarceloFontana&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
