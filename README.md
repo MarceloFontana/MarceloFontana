@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Marcelo+Luiz+Fontana;I'm+22+years+old;I'm+from+Porto+ALegre,+RS;I+study+computer+science+at+Unisinos;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Marcelo+Luiz+Fontana;I'm+22+years+old;I'm+from+Porto+Alegre,+RS;I+study+computer+science+at+Unisinos;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
   
   ## Olá, me chamo Marcelo Luiz Fontana, estudante de programação e tecnologia!
-- Estudante de Ciências da Computação.
-- Atualmente estudando para me tornar um Engenheiro de Software.
+- Graduado em Ciência da Computação.
 - Apaixonado por tecnologias e suas transformações.
 - Pronouns: ele/dele.
 
