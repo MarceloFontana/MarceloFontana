@@ -19,7 +19,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-plain.svg">
   <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css-plain.svg">
  </div>
