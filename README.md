@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
