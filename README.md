@@ -20,8 +20,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
  
   
 
